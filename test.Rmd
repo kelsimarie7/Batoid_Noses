@@ -1,8 +1,8 @@
 ---
-title: "Test"
+title: "Test2"
 author: "Kelsi Rutledge"
 date: "8/26/2019"
-output: html_document
+output: github_document
 ---
 
 # Diversity in Noses
